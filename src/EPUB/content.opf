@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="id" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta property="dcterms:modified">2026-11-24T00:29:48Z</meta>
+    <meta name="generator" content="Ebook-lib 0.19.0"/>
+    <dc:identifier id="id">20261124002948</dc:identifier>
+    <dc:title>परी</dc:title>
+    <dc:language>ne</dc:language>
+    <dc:creator id="creator">लक्ष्मीप्रसाद देवकोटा</dc:creator>
+    <dc:date>2026-11-24T00:29:48Z</dc:date>
+    <dc:publisher>Sahityaras</dc:publisher>
+    <meta name="source_publisher" content="नइ प्रकाशन"></meta>
+    <meta name="source_edition" content="पहिलो"></meta>
+    <meta name="source_year" content="२०६६"></meta>
+    <meta name="source_isbn" content="978-9937-509-14-5"></meta>
+    <meta name="book_about" content="महाकवि लक्ष्मीप्रसाद देवकोटाको परी कवितासङ्ग्रहका सिर्जनाहरू रुमानी वा स्वच्छन्दतावादी कविताधाराको प्रकृतिकेन्द्री र रहस्यवादी जीवनदृष्टिमा गहिरो रूपमा उभिएका छन् । जीवनका हाँसो, आँसु, सपना, बिपना, क्षणिकता, तृष्णा र धैर्यदेखि लिएर प्रकृतिका विविध रूप, समयचक्र, आध्यात्मिकता र प्रकृतिपरक देशभक्तिसम्मका बहुआयामिक भावहरूलाई यस सङ्ग्रहका कविताहरूले स्वस्फूर्त कल्पना, मोहक बिम्ब र सौन्दर्यबोधका माध्यमबाट उजागर गरेका छन् । आफ्ना उत्तरवर्ती सिर्जनाहरूमा देखिने नेपालीकृत र स्वायत्तीकृत स्वच्छन्दतावादी रूपको तुलनामा यहाँ देवकोटामा अङ्ग्रेजीका साथै बङ्गाली, अरबी-फारसी र हिन्दी साहित्यका रुमानी, रहस्यवादी तथा छायावादी धाराबाट प्राप्त प्रभाव र प्रेरणाको स्पष्ट झलक पाइन्छ ।"></meta>
+    <meta name="book_genre" content="कवितासङ्ग्रह"></meta>
+    <meta name="book_slug" content="pari"></meta>
+    <meta name="cover" content="cover-img"></meta>
+  </metadata>
+  <manifest>
+    <item href="styles/global.css" id="static_0" media-type="text/css"/>
+    <item href="images/cover.jpg" id="cover-img" media-type="image/jpeg" properties="cover-image"/>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="text/coverpage.xhtml" id="chapter_0" media-type="application/xhtml+xml"/>
+    <item href="fonts/BhotoSerifDevanagari-VF.ttf" id="static_1" media-type="application/font-sfnt"/>
+    <item href="text/titlepage.xhtml" id="chapter_1" media-type="application/xhtml+xml"/>
+    <item href="images/saras_logo.png" id="static_2" media-type="image/png"/>
+    <item href="text/copyrightpage.xhtml" id="chapter_2" media-type="application/xhtml+xml"/>
+    <item href="text/tocpage.xhtml" id="chapter_3" media-type="application/xhtml+xml"/>
+    <item href="text/bhumika.xhtml" id="chapter_4" media-type="application/xhtml+xml"/>
+    <item href="text/jivanako-dhvani.xhtml" id="chapter_5" media-type="application/xhtml+xml"/>
+    <item href="text/prabhati-gana.xhtml" id="chapter_6" media-type="application/xhtml+xml"/>
+    <item href="text/rajani.xhtml" id="chapter_7" media-type="application/xhtml+xml"/>
+    <item href="text/jaduko-vaga.xhtml" id="chapter_8" media-type="application/xhtml+xml"/>
+    <item href="text/nava-prabhata.xhtml" id="chapter_9" media-type="application/xhtml+xml"/>
+    <item href="text/vanaki-chori.xhtml" id="chapter_10" media-type="application/xhtml+xml"/>
+    <item href="text/apsara.xhtml" id="chapter_11" media-type="application/xhtml+xml"/>
+    <item href="text/dina-ra-nishako-nilo-dhakani.xhtml" id="chapter_12" media-type="application/xhtml+xml"/>
+    <item href="text/akhira.xhtml" id="chapter_13" media-type="application/xhtml+xml"/>
+    <item href="text/dhairya.xhtml" id="chapter_14" media-type="application/xhtml+xml"/>
+    <item href="text/jivanachaya.xhtml" id="chapter_15" media-type="application/xhtml+xml"/>
+    <item href="text/adheri-paravara.xhtml" id="chapter_16" media-type="application/xhtml+xml"/>
+    <item href="text/shila.xhtml" id="chapter_17" media-type="application/xhtml+xml"/>
+    <item href="text/upavana.xhtml" id="chapter_18" media-type="application/xhtml+xml"/>
+    <item href="text/sadhu.xhtml" id="chapter_19" media-type="application/xhtml+xml"/>
+    <item href="text/svadesha.xhtml" id="chapter_20" media-type="application/xhtml+xml"/>
+    <item href="text/kshana.xhtml" id="chapter_21" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="chapter_0"/>
+    <itemref idref="chapter_1"/>
+    <itemref idref="chapter_2"/>
+    <itemref idref="chapter_3"/>
+    <itemref idref="chapter_4"/>
+    <itemref idref="chapter_5"/>
+    <itemref idref="chapter_6"/>
+    <itemref idref="chapter_7"/>
+    <itemref idref="chapter_8"/>
+    <itemref idref="chapter_9"/>
+    <itemref idref="chapter_10"/>
+    <itemref idref="chapter_11"/>
+    <itemref idref="chapter_12"/>
+    <itemref idref="chapter_13"/>
+    <itemref idref="chapter_14"/>
+    <itemref idref="chapter_15"/>
+    <itemref idref="chapter_16"/>
+    <itemref idref="chapter_17"/>
+    <itemref idref="chapter_18"/>
+    <itemref idref="chapter_19"/>
+    <itemref idref="chapter_20"/>
+    <itemref idref="chapter_21"/>
+  </spine>
+</package>
